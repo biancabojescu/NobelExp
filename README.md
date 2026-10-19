@@ -464,4 +464,4 @@ The REST API is documented using **OpenAPI 3.0**.
 Bojescu Bianca  - bianca.bojescu@gmail.com
 Olaru Bianca 
 
-Project Link: [https://github.com/olarubianca6/NobelExp.git](https://github.com/olarubianca6/NobelExp.git)
+Project Link: [https://github.com/biancabojescu/NobelExp.git](https://github.com/biancabojescu/NobelExp.git)
